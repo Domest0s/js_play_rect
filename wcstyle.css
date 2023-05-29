@@ -1,0 +1,22 @@
+#workCanv {
+    width: 100%;
+    height: 180px;
+    border: 1px solid black;
+}
+
+.draggable {
+    cursor: move;
+}
+
+.rect {
+    stroke-width: 4;
+    fill: lightgrey;
+}
+
+.active {
+    stroke: brown
+}
+
+.inactive {
+    stroke: black
+}

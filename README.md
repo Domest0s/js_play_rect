@@ -1,0 +1,1 @@
+Trying to rememember things I knew abot JavaScript.
